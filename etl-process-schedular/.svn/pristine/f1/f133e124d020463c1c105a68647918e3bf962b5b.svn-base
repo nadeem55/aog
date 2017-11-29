@@ -1,0 +1,5 @@
+com\ge\aog\etl\JobOneMinute.class
+com\ge\aog\etl\QuartzListener.class
+com\ge\aog\etl\JobOneDay.class
+com\ge\aog\etl\JobOneWeek.class
+com\ge\aog\etl\JobEightHours.class
