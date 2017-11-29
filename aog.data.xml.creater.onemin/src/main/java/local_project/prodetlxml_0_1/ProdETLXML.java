@@ -55,6 +55,7 @@ import java.util.Comparator;
  */
 public class ProdETLXML implements TalendJob {
 
+	//added the comment.
 	public final Object obj = new Object();
 
 	// for transmiting parameters purpose
