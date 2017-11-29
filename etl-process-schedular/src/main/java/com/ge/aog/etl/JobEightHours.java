@@ -10,6 +10,11 @@ import org.quartz.JobExecutionException;
 import local_project.etlxml8hr_0_1.ETLXML8HR;
 
 
+/**
+ * To generate shift wise data.
+ * @author Nadeem.Ahmed
+ *
+ */
 public class JobEightHours implements Job {
 	
 	
